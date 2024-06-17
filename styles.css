@@ -1,0 +1,12 @@
+.task-card {
+    margin-bottom: 15px;
+}
+.task-card.resolved {
+    background-color: #d4edda;
+}
+.task-card.expired {
+    background-color: #f8d7da;
+}
+.task-card.pending {
+    background-color: #ffffff;
+}
